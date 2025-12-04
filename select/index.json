@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Blue Blood",
+  "base_artist": "IVE",
+  "createdAt": "2025-12-04T05:54:33.787890Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blue Blood Blues",
+      "artist": "The Dead Weather",
+      "has_synced": false,
+      "path": "select/01_Blue_Blood_Blues_The_Dead_Weather.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blue Blood",
+      "artist": "Foals",
+      "has_synced": false,
+      "path": "select/02_Blue_Blood_Foals.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blue Blood",
+      "artist": "Biohazard",
+      "has_synced": true,
+      "path": "select/03_Blue_Blood_Biohazard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blue Blood",
+      "artist": "Foals",
+      "has_synced": true,
+      "path": "select/04_Blue_Blood_Foals.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blue Blood",
+      "artist": "Foals",
+      "has_synced": true,
+      "path": "select/05_Blue_Blood_Foals.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blue Blood",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/06_Blue_Blood_IVE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blue Blood",
+      "artist": "X JAPAN (X)",
+      "has_synced": true,
+      "path": "select/07_Blue_Blood_X_JAPAN_(X).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blue Blood",
+      "artist": "X Japan",
+      "has_synced": true,
+      "path": "select/08_Blue_Blood_X_Japan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blue Blood",
+      "artist": "Atrocity",
+      "has_synced": false,
+      "path": "select/09_Blue_Blood_Atrocity.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blue Blood",
+      "artist": "Devito",
+      "has_synced": false,
+      "path": "select/10_Blue_Blood_Devito.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blue Blood",
+      "artist": "LAUREL",
+      "has_synced": false,
+      "path": "select/11_Blue_Blood_LAUREL.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Last Days of the Blue Blood Harvest",
+      "artist": "Blanket",
+      "has_synced": true,
+      "path": "select/12_The_Last_Days_of_the_Blue_Blood_Harvest_Blanket.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "My Flame Burns Blue (Blood Count) - Live",
+      "artist": "Elvis Costello",
+      "has_synced": false,
+      "path": "select/13_My_Flame_Burns_Blue_(Blood_Count)_-_Live_Elvis_Costello.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "My Flame Burns Blue (Blood Count)",
+      "artist": "Elvis Costello",
+      "has_synced": false,
+      "path": "select/14_My_Flame_Burns_Blue_(Blood_Count)_Elvis_Costello.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blue Blood",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/pl_01_Blue_Blood_IVE.txt"
+    }
+  ]
+}
